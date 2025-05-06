@@ -5,3 +5,5 @@ A web-based interface for generating OpenWRT UCI configuration scripts using AI.
 - Integration with the existing backend service
 - Responsive design for desktop and mobile devices
 - Print statement capture and display in the web interface
+Using RAG & Ollama
+Configuring the Openwrt Router offline only in just one sentence
