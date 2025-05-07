@@ -1,6 +1,6 @@
 # OpenWRT UCI Configuration Assistant
 
-A smart assistant system for OpenWRT router configuration management based on natural language processing and vector search techniques.
+A smart assistant system for OpenWRT router configuration management based on LLM and RAG.
 
 ## Project Overview
 
