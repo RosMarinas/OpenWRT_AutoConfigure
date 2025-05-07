@@ -7,7 +7,6 @@ A smart assistant system for OpenWRT router configuration management based on LL
 This project provides an intelligent interface for managing OpenWRT router configurations through natural language commands. It leverages RAG (Retrieval-Augmented Generation) techniques to understand user queries and generate appropriate UCI commands, enhancing the user experience of router management.
 
 ## System Architecture
-![屏幕截图 2025-04-29 004432](https://github.com/user-attachments/assets/a0bf00f5-ea5b-4ab2-85d6-2d6645ba3797)
 
 
 The system consists of the following components:
