@@ -4,4 +4,16 @@ jinja2==3.1.2
 requests==2.31.0
 python-multipart==0.0.6
 pydantic==2.4.2
-aiofiles==23.2.1 
+aiofiles==23.2.1
+paramiko==3.3.1
+faiss-cpu==1.7.4
+numpy==1.24.3
+openai==1.3.0
+FlagEmbedding==1.1.5
+matplotlib==3.7.2
+concurrent-log-handler==0.9.24
+transformers==4.34.0
+sentence-transformers==2.2.2
+httpx==0.25.0
+llama-cpp-python==0.2.19
+bashlex==0.16
