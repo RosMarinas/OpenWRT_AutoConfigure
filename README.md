@@ -36,8 +36,8 @@ The system consists of the following components:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/openwrt-uci-assistant.git
-   cd openwrt-uci-assistant
+   git@github.com:RosMarinas/OpenWRT_AutoConfigure.git
+   cd OpenWRT_AutoConfigure
    ```
 
 2. Install the required packages:
@@ -46,11 +46,7 @@ The system consists of the following components:
    ```
 
 3. Setup SSH key-based authentication with your router
-
-4. Create necessary directories:
-   ```
-   mkdir -p scripts/uci_configs scripts/uci_annotations
-   ```
+   
 
 ### Running the Application
 
