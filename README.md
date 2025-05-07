@@ -84,6 +84,10 @@ Examples of commands:
 - `uci_configs/`: Storage for UCI configuration chunks
 - `uci_annotations/`: Storage for annotations of configuration chunks
 
+## Attention
+Warning:Please backup your router's firmware before execution/ensure that you have the ability to re-configure the router.
+There are still some issues to be improved in the current version:
+- Security Check: The generated scripts go through security checks to ensure that no dangerous commands are introduced. However, some configurations, especially modifications to the firewall, may cause the router to malfunction.
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
